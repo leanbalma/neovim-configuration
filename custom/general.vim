@@ -23,3 +23,6 @@ set ignorecase " Ignore case when searching...
 set smartcase  " ...unless we type a capital             "
 set incsearch  " incremental search (search as you type)
 set nowrapscan " stop searching after reaching first/last occurrence
+
+" Correct comment highlighting in coc-settings.json
+autocmd FileType json syntax match Comment +\/\/.\+$+

@@ -1,0 +1,2 @@
+Install ripgrep https://github.com/BurntSushi/ripgrep
+$ brew install ripgrep 
