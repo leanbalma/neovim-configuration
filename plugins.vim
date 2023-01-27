@@ -32,6 +32,8 @@ Plug 'styled-components/vim-styled-components', { 'branch': 'main' }
 Plug 'jparise/vim-graphql'
 
 Plug 'tpope/vim-fugitive'
+Plug 'tpope/vim-rhubarb'
+
 Plug 'tpope/vim-unimpaired'
 Plug 'tpope/vim-surround'
 
